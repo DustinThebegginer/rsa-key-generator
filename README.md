@@ -23,19 +23,8 @@ The public key is used for encryption, while the private key is used for decrypt
 
 ## Installation
 
-### Clone the Repository
 
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/rsa-key-generator.git
-```
-
-### Install Dependencies
-
-Install the required Python library, `pycryptodome`, which is used for cryptographic operations:
-
-```bash
+git clone https://github.com/DustinThebegginer/rsa-key-generator.git
 pip install pycryptodome
 ```
 
