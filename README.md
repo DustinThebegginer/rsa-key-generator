@@ -71,4 +71,4 @@ Contributions are welcome! Feel free to fork the repository, submit issues, or c
 ## Acknowledgments
 
 - This project uses the `pycryptodome` library for cryptographic operations. Check out their [documentation](https://pycryptodome.readthedocs.io/) for more details on cryptographic functions.
-```
+
